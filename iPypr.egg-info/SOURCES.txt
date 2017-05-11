@@ -1,0 +1,10 @@
+MANIFEST.in
+README
+setup.py
+iPypr/__init__.py
+iPypr/_iPypr.py
+iPypr/demo.py
+iPypr.egg-info/PKG-INFO
+iPypr.egg-info/SOURCES.txt
+iPypr.egg-info/dependency_links.txt
+iPypr.egg-info/top_level.txt
